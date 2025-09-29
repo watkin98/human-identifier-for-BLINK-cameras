@@ -1,4 +1,4 @@
-# human-identifier-for-BLINK-cameras
+# human-identifier-for-blink-cameras
 
 My house is survellied by the use of Blink cameras. One problem I've had with them is the amount of "false positives" that are generated when a camera detects movement. The vast majority of the time, 
 there is no human on the video feed. 
