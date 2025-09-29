@@ -9,5 +9,3 @@ a person is present.
 **TODO**: Boot.dev README Requirements:
 - What the project is, and what it does.
 - How to clone and run it.
-
-**IGNORE** Testing git repo connection 
