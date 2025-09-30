@@ -9,3 +9,5 @@ a person is present.
 **TODO**: Boot.dev README Requirements:
 - What the project is, and what it does.
 - How to clone and run it.
+
+Looking into using the [blinkpy](https://github.com/fronzbot/blinkpy/tree/dev) library
