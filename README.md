@@ -10,4 +10,4 @@ a person is present.
 - What the project is, and what it does.
 - How to clone and run it.
 
-Looking into using the [blinkpy](https://github.com/fronzbot/blinkpy/tree/dev) library
+Looking into using the [blinkpy](https://github.com/fronzbot/blinkpy/tree/dev) library, a fork of [BlinkMonitorProtocol](https://github.com/MattTW/BlinkMonitorProtocol)
